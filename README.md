@@ -2,7 +2,7 @@
 
 #  Classification of Order Deliveries in the Healthcare Supply Chain 
 # Machine Learning / KNN - SVM - DT - RF - NB 
-# Project Level : Intermediate 
+## Project Level : Intermediate 
 
 ##  Project Overview
 
@@ -59,5 +59,3 @@ The performance of each model is presented as below:
 ![image](https://github.com/user-attachments/assets/eae57aa9-c712-4198-8588-25b006e2b40b)
 
 ---
-
-Let me know if you want to add installation steps, usage instructions, or sample visualizations!
