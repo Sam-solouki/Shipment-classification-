@@ -3,7 +3,8 @@
 #  Classification of Order Deliveries in the Healthcare Supply Chain 
 # Machine Learning / KNN - SVM - DT - RF - NB 
 ## Project Level : Intermediate 
-You may find the report of the project under the name "DataMining-Shipment Classification-Python Report- SaminSolouki.pdf"
+*You may find the report of the project under the name "DataMining-Shipment Classification-Python Report- SaminSolouki.pdf"*
+
 ##  Project Overview
 
 Timely delivery of orders is a critical factor in supply chain management, especially for healthcare products. Delays in delivery can disrupt the supply chain, reduce efficiency, and increase risk. This project focuses on classifying the delivery status of orders within a healthcare supply chain using machine learning techniques in Python.
@@ -56,6 +57,7 @@ The dataset includes features such as:
 
 The final model provides a classification output that can help decision-makers in the healthcare supply chain improve planning, minimize delays, and select the most suitable suppliers and shipping methods. 
 The performance of each model is presented as below: 
+
 ![image](https://github.com/user-attachments/assets/eae57aa9-c712-4198-8588-25b006e2b40b)
 
 ---
